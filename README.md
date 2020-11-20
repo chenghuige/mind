@@ -6,3 +6,5 @@ training use sh ./train/v17/body.sh
 tfrecord generated in projects/ai/mind/prepare    
 Code can run on both tf 1.14+ and tf 2.1+   
 
+Document of the MIND contest https://docs.google.com/presentation/d/1TCcv4QoCv132ubd78xMxegEM7qRqIIRnF2Wj2oIFP94/edit?usp=sharing   
+
