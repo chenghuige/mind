@@ -12,4 +12,4 @@ https://mp.weixin.qq.com/s/7_lSvNrCc_hJPb6giN7OJQ
 Document of the MIND contest(AUC 0.7131):   
 https://docs.google.com/presentation/d/1TCcv4QoCv132ubd78xMxegEM7qRqIIRnF2Wj2oIFP94/edit?usp=sharing     
 
-另外@MSRA 奖金什么是否发呢 已经拖了好久了啊:)
+另外@MSRA 奖金什么时候发呢 已经拖了好久了啊:)
