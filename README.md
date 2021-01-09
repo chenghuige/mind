@@ -7,7 +7,7 @@ tfrecord generated in projects/ai/mind/prepare
 Code can run on both tf 1.14+ and tf 2.1+   
 
 Newst result with AUC 0.7187(Current STOA of MIND 20210104) explained:  
-我们在赛后刷新了MIND的最佳成绩(20200104)并且在微信公众号介绍了所用的方法：  
+我们在赛后刷新了MIND的最佳成绩(AUC 0.7187 20200104)并且在微信公众号介绍了所用的方法：  
 https://mp.weixin.qq.com/s/7_lSvNrCc_hJPb6giN7OJQ  
 
 Document of the MIND contest(AUC 0.7131):   
