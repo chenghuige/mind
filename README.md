@@ -12,3 +12,5 @@ https://mp.weixin.qq.com/s/7_lSvNrCc_hJPb6giN7OJQ
 
 Document of the MIND contest(AUC 0.7131):   
 https://docs.google.com/presentation/d/1TCcv4QoCv132ubd78xMxegEM7qRqIIRnF2Wj2oIFP94/edit?usp=sharing     
+
+BTW,目前榜一UniUM的成绩太强了，期待能学习。。。
